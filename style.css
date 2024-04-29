@@ -46,8 +46,17 @@ h1 {
     width: 300px;
     height: 300px;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-   margin-top: 20px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 1rem auto;
+   
 
+}
+
+.japan {
+    padding: 0.5rem;
+    background-color: #ffe4c4;
+    border-radius: 1rem;
+    margin: 1rem;
+    padding: 0.5rem;
 }
