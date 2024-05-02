@@ -24,7 +24,7 @@ h1 {
 }
 
 .navbar {
-    background-image: url(https://cdn.pixabay.com/photo/2017/01/13/08/08/tori-1976609_1280.jpg);
+    background-image: url(bilder/tori.jpg);
     background-size: cover;
     background-position: center;
     height: 150px;
@@ -134,8 +134,9 @@ h1 {
     }
 
     .section3 .text {
-        width: 300px;
-        height: 300px;
+        width: 30vw;
+        height: 30vw;
+        /* font-size: 20px; */
     }
 
     .navbar a {
